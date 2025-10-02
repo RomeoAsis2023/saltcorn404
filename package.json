@@ -1,9 +1,17 @@
 {
   "name": "saltcorn-redirect-404",
-  "version": "1.0.0",
-  "description": "redirect 404 errors to a custom /page/not-found page",
+  "version": "1.0.1",
+  "description": "Saltcorn plugin to redirect 404 errors to a custom /page/not-found page",
   "main": "redirect-404-plugin.js",
   "keywords": ["saltcorn", "plugin", "404", "redirect"],
-  "author": "Romeo Asis <romeo@qomi.eu>",
-  "license": "MIT"
+  "author": "Romeo Asis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomeoAsis2023/saltcorn404.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RomeoAsis2023/saltcorn404/issues"
+  },
+  "homepage": "https://github.com/RomeoAsis2023/saltcorn404"
 }
